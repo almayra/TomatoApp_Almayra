@@ -1,0 +1,6 @@
+export const LOGIN_SUCCESS='LOGIN_SUCCESS'
+export const LOGIN_FAILED='LOGIN_FAILED'
+export const LOGIN_INPUT = 'LOGIN_INPUT'
+export const LOADING='LOADING'
+export const DATA_PRODUCT='DATA_PRODUCT'
+export const DATA_RESTO='DATA_RESTO'
